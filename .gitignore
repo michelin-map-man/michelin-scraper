@@ -1,0 +1,5 @@
+cached_countries/
+results/
+*pycache*
+
+*.sublime-project

@@ -1,0 +1,1010 @@
+{
+  "Afghanistan": {
+    "cname": "afghanistan",
+    "shortcode": "af"
+  },
+  "Albania": {
+    "cname": "albania",
+    "shortcode": "al"
+  },
+  "Algeria": {
+    "cname": "algeria",
+    "shortcode": "dz"
+  },
+  "American Samoa": {
+    "cname": "american-samoa",
+    "shortcode": "as"
+  },
+  "Andorra": {
+    "cname": "andorra",
+    "shortcode": "ad"
+  },
+  "Angola": {
+    "cname": "angola",
+    "shortcode": "ao"
+  },
+  "Anguilla": {
+    "cname": "anguilla",
+    "shortcode": "ai"
+  },
+  "Antarctica": {
+    "cname": "antarctica",
+    "shortcode": "aq"
+  },
+  "Antigua and Barbuda": {
+    "cname": "antigua-and-barbuda",
+    "shortcode": "ag"
+  },
+  "Argentina": {
+    "cname": "argentina",
+    "shortcode": "ar"
+  },
+  "Armenia": {
+    "cname": "armenia",
+    "shortcode": "am"
+  },
+  "Aruba": {
+    "cname": "aruba",
+    "shortcode": "aw"
+  },
+  "Australia": {
+    "cname": "australia",
+    "shortcode": "au"
+  },
+  "Austria": {
+    "cname": "austria",
+    "shortcode": "at"
+  },
+  "Azerbaijan": {
+    "cname": "azerbaijan",
+    "shortcode": "az"
+  },
+  "Bahamas": {
+    "cname": "bahamas",
+    "shortcode": "bs"
+  },
+  "Bahrain": {
+    "cname": "bahrain",
+    "shortcode": "bh"
+  },
+  "Bangladesh": {
+    "cname": "bangladesh",
+    "shortcode": "bd"
+  },
+  "Barbados": {
+    "cname": "barbados",
+    "shortcode": "bb"
+  },
+  "Belarus": {
+    "cname": "belarus",
+    "shortcode": "by"
+  },
+  "Belgium": {
+    "cname": "belgium",
+    "shortcode": "be"
+  },
+  "Belize": {
+    "cname": "belize",
+    "shortcode": "bz"
+  },
+  "Benin": {
+    "cname": "benin",
+    "shortcode": "bj"
+  },
+  "Bermuda": {
+    "cname": "bermuda",
+    "shortcode": "bm"
+  },
+  "Bhutan": {
+    "cname": "bhutan",
+    "shortcode": "bt"
+  },
+  "Bolivia": {
+    "cname": "bolivia",
+    "shortcode": "bo"
+  },
+  "Bonaire, Sint Eustatius and Saba": {
+    "cname": "bonaire-sint-eustatius-and-saba",
+    "shortcode": "bq"
+  },
+  "Bosnia and Herzegovina": {
+    "cname": "bosnia-and-herzegovina",
+    "shortcode": "ba"
+  },
+  "Botswana": {
+    "cname": "botswana",
+    "shortcode": "bw"
+  },
+  "Bouvet Island": {
+    "cname": "bouvet-island",
+    "shortcode": "bv"
+  },
+  "Brazil": {
+    "cname": "brazil",
+    "shortcode": "br"
+  },
+  "British Indian Ocean Territory": {
+    "cname": "british-indian-ocean-territory",
+    "shortcode": "io"
+  },
+  "British Virgin Islands": {
+    "cname": "british-virgin-islands",
+    "shortcode": "vg"
+  },
+  "Brunei": {
+    "cname": "brunei",
+    "shortcode": "bn"
+  },
+  "Bulgaria": {
+    "cname": "bulgaria",
+    "shortcode": "bg"
+  },
+  "Burkina Faso": {
+    "cname": "burkina-faso",
+    "shortcode": "bf"
+  },
+  "Burundi": {
+    "cname": "burundi",
+    "shortcode": "bi"
+  },
+  "Cambodia": {
+    "cname": "cambodia",
+    "shortcode": "kh"
+  },
+  "Cameroon": {
+    "cname": "cameroon",
+    "shortcode": "cm"
+  },
+  "Canada": {
+    "cname": "canada",
+    "shortcode": "ca"
+  },
+  "Cape Verde": {
+    "cname": "cape-verde",
+    "shortcode": "cv"
+  },
+  "Cayman Islands": {
+    "cname": "cayman-islands",
+    "shortcode": "ky"
+  },
+  "Central African Republic": {
+    "cname": "central-african-republic",
+    "shortcode": "cf"
+  },
+  "Chad": {
+    "cname": "chad",
+    "shortcode": "td"
+  },
+  "Chile": {
+    "cname": "chile",
+    "shortcode": "cl"
+  },
+  "China Mainland": {
+    "cname": "china-mainland",
+    "shortcode": "cn"
+  },
+  "Christmas Island": {
+    "cname": "christmas-island",
+    "shortcode": "cx"
+  },
+  "Cocos Islands": {
+    "cname": "cocos-islands",
+    "shortcode": "cc"
+  },
+  "Colombia": {
+    "cname": "colombia",
+    "shortcode": "co"
+  },
+  "Comoros": {
+    "cname": "comoros",
+    "shortcode": "km"
+  },
+  "Congo": {
+    "cname": "congo",
+    "shortcode": "cg"
+  },
+  "Cook Islands": {
+    "cname": "cook-islands",
+    "shortcode": "ck"
+  },
+  "Costa Rica": {
+    "cname": "costa-rica",
+    "shortcode": "cr"
+  },
+  "Croatia": {
+    "cname": "croatia",
+    "shortcode": "hr"
+  },
+  "Cuba": {
+    "cname": "cuba",
+    "shortcode": "cu"
+  },
+  "Cura\u00c3\u00a7ao": {
+    "cname": "curacao",
+    "shortcode": "cw"
+  },
+  "Cyprus": {
+    "cname": "cyprus",
+    "shortcode": "cy"
+  },
+  "Czech Republic": {
+    "cname": "czech-republic",
+    "shortcode": "cz"
+  },
+  "C\u00c3\u00b4te d'Ivoire": {
+    "cname": "cote-d-ivoire",
+    "shortcode": "ci"
+  },
+  "Denmark": {
+    "cname": "denmark",
+    "shortcode": "dk"
+  },
+  "Djibouti": {
+    "cname": "djibouti",
+    "shortcode": "dj"
+  },
+  "Dominica": {
+    "cname": "dominica",
+    "shortcode": "dm"
+  },
+  "Dominican Republic": {
+    "cname": "dominican-republic",
+    "shortcode": "do"
+  },
+  "Ecuador": {
+    "cname": "ecuador",
+    "shortcode": "ec"
+  },
+  "Egypt": {
+    "cname": "egypt",
+    "shortcode": "eg"
+  },
+  "El Salvador": {
+    "cname": "el-salvador",
+    "shortcode": "sv"
+  },
+  "Equatorial Guinea": {
+    "cname": "equatorial-guinea",
+    "shortcode": "gq"
+  },
+  "Eritrea": {
+    "cname": "eritrea",
+    "shortcode": "er"
+  },
+  "Estonia": {
+    "cname": "estonia",
+    "shortcode": "ee"
+  },
+  "Ethiopia": {
+    "cname": "ethiopia",
+    "shortcode": "et"
+  },
+  "Falkland Islands": {
+    "cname": "falkland-islands",
+    "shortcode": "fk"
+  },
+  "Faroe Islands": {
+    "cname": "faroe-islands",
+    "shortcode": "fo"
+  },
+  "Fiji": {
+    "cname": "fiji",
+    "shortcode": "fj"
+  },
+  "Finland": {
+    "cname": "finland",
+    "shortcode": "fi"
+  },
+  "France": {
+    "cname": "france",
+    "shortcode": "fr"
+  },
+  "French Guiana": {
+    "cname": "french-guiana",
+    "shortcode": "gf"
+  },
+  "French Polynesia": {
+    "cname": "french-polynesia",
+    "shortcode": "pf"
+  },
+  "French Southern Territories": {
+    "cname": "french-southern-territories",
+    "shortcode": "tf"
+  },
+  "Gabon": {
+    "cname": "gabon",
+    "shortcode": "ga"
+  },
+  "Gambia": {
+    "cname": "gambia",
+    "shortcode": "gm"
+  },
+  "Georgia": {
+    "cname": "georgia",
+    "shortcode": "ge"
+  },
+  "Germany": {
+    "cname": "germany",
+    "shortcode": "de"
+  },
+  "Ghana": {
+    "cname": "ghana",
+    "shortcode": "gh"
+  },
+  "Gibraltar": {
+    "cname": "gibraltar",
+    "shortcode": "gi"
+  },
+  "Greece": {
+    "cname": "greece",
+    "shortcode": "gr"
+  },
+  "Greenland": {
+    "cname": "greenland",
+    "shortcode": "gl"
+  },
+  "Grenada": {
+    "cname": "grenada",
+    "shortcode": "gd"
+  },
+  "Guadeloupe": {
+    "cname": "guadeloupe",
+    "shortcode": "gp"
+  },
+  "Guam": {
+    "cname": "guam",
+    "shortcode": "gu"
+  },
+  "Guatemala": {
+    "cname": "guatemala",
+    "shortcode": "gt"
+  },
+  "Guernsey": {
+    "cname": "guernsey",
+    "shortcode": "gg"
+  },
+  "Guinea": {
+    "cname": "guinea",
+    "shortcode": "gn"
+  },
+  "Guinea-Bissau": {
+    "cname": "guinea-bissau",
+    "shortcode": "gw"
+  },
+  "Guyana": {
+    "cname": "guyana",
+    "shortcode": "gy"
+  },
+  "Haiti": {
+    "cname": "haiti",
+    "shortcode": "ht"
+  },
+  "Heard Island And McDonald Islands": {
+    "cname": "heard-island-and-mcdonald-islands",
+    "shortcode": "hm"
+  },
+  "Honduras": {
+    "cname": "honduras",
+    "shortcode": "hn"
+  },
+  "Hong Kong": {
+    "cname": "hong-kong",
+    "shortcode": "hk"
+  },
+  "Hungary": {
+    "cname": "hungary",
+    "shortcode": "hu"
+  },
+  "Iceland": {
+    "cname": "iceland",
+    "shortcode": "is"
+  },
+  "India": {
+    "cname": "india",
+    "shortcode": "in"
+  },
+  "Indonesia": {
+    "cname": "indonesia",
+    "shortcode": "id"
+  },
+  "Iran": {
+    "cname": "iran",
+    "shortcode": "ir"
+  },
+  "Iraq": {
+    "cname": "iraq",
+    "shortcode": "iq"
+  },
+  "Ireland": {
+    "cname": "republic-of-ireland",
+    "shortcode": "ie"
+  },
+  "Isle Of Man": {
+    "cname": "isle-of-man",
+    "shortcode": "im"
+  },
+  "Israel": {
+    "cname": "israel",
+    "shortcode": "il"
+  },
+  "Italy": {
+    "cname": "italy",
+    "shortcode": "it"
+  },
+  "Jamaica": {
+    "cname": "jamaica",
+    "shortcode": "jm"
+  },
+  "Japan": {
+    "cname": "japan",
+    "shortcode": "jp"
+  },
+  "Jersey": {
+    "cname": "jersey",
+    "shortcode": "je"
+  },
+  "Jordan": {
+    "cname": "jordan",
+    "shortcode": "jo"
+  },
+  "Kazakhstan": {
+    "cname": "kazakhstan",
+    "shortcode": "kz"
+  },
+  "Kenya": {
+    "cname": "kenya",
+    "shortcode": "ke"
+  },
+  "Kiribati": {
+    "cname": "kiribati",
+    "shortcode": "ki"
+  },
+  "Kuwait": {
+    "cname": "kuwait",
+    "shortcode": "kw"
+  },
+  "Kyrgyzstan": {
+    "cname": "kyrgyzstan",
+    "shortcode": "kg"
+  },
+  "Laos": {
+    "cname": "laos",
+    "shortcode": "la"
+  },
+  "Latvia": {
+    "cname": "latvia",
+    "shortcode": "lv"
+  },
+  "Lebanon": {
+    "cname": "lebanon",
+    "shortcode": "lb"
+  },
+  "Lesotho": {
+    "cname": "lesotho",
+    "shortcode": "ls"
+  },
+  "Liberia": {
+    "cname": "liberia",
+    "shortcode": "lr"
+  },
+  "Libya": {
+    "cname": "libya",
+    "shortcode": "ly"
+  },
+  "Liechtenstein": {
+    "cname": "liechtenstein",
+    "shortcode": "li"
+  },
+  "Lithuania": {
+    "cname": "lithuania",
+    "shortcode": "lt"
+  },
+  "Luxembourg": {
+    "cname": "luxembourg",
+    "shortcode": "lu"
+  },
+  "Macau": {
+    "cname": "macao",
+    "shortcode": "mo"
+  },
+  "Macedonia": {
+    "cname": "macedonia",
+    "shortcode": "mk"
+  },
+  "Madagascar": {
+    "cname": "madagascar",
+    "shortcode": "mg"
+  },
+  "Malawi": {
+    "cname": "malawi",
+    "shortcode": "mw"
+  },
+  "Malaysia": {
+    "cname": "malaysia",
+    "shortcode": "my"
+  },
+  "Maldives": {
+    "cname": "maldives",
+    "shortcode": "mv"
+  },
+  "Mali": {
+    "cname": "mali",
+    "shortcode": "ml"
+  },
+  "Malta": {
+    "cname": "malta",
+    "shortcode": "mt"
+  },
+  "Marshall Islands": {
+    "cname": "marshall-islands",
+    "shortcode": "mh"
+  },
+  "Martinique": {
+    "cname": "martinique",
+    "shortcode": "mq"
+  },
+  "Mauritania": {
+    "cname": "mauritania",
+    "shortcode": "mr"
+  },
+  "Mauritius": {
+    "cname": "mauritius",
+    "shortcode": "mu"
+  },
+  "Mayotte": {
+    "cname": "mayotte",
+    "shortcode": "yt"
+  },
+  "Mexico": {
+    "cname": "mexico",
+    "shortcode": "mx"
+  },
+  "Micronesia": {
+    "cname": "micronesia",
+    "shortcode": "fm"
+  },
+  "Moldova": {
+    "cname": "moldova",
+    "shortcode": "md"
+  },
+  "Monaco": {
+    "cname": "monaco",
+    "shortcode": "mc"
+  },
+  "Mongolia": {
+    "cname": "mongolia",
+    "shortcode": "mn"
+  },
+  "Montenegro": {
+    "cname": "montenegro",
+    "shortcode": "me"
+  },
+  "Montserrat": {
+    "cname": "montserrat",
+    "shortcode": "ms"
+  },
+  "Morocco": {
+    "cname": "morocco",
+    "shortcode": "ma"
+  },
+  "Mozambique": {
+    "cname": "mozambique",
+    "shortcode": "mz"
+  },
+  "Myanmar": {
+    "cname": "myanmar",
+    "shortcode": "mm"
+  },
+  "Namibia": {
+    "cname": "namibia",
+    "shortcode": "na"
+  },
+  "Nauru": {
+    "cname": "nauru",
+    "shortcode": "nr"
+  },
+  "Nepal": {
+    "cname": "nepal",
+    "shortcode": "np"
+  },
+  "Netherlands": {
+    "cname": "netherlands",
+    "shortcode": "nl"
+  },
+  "Netherlands Antilles": {
+    "cname": "netherlands-antilles",
+    "shortcode": "an"
+  },
+  "New Caledonia": {
+    "cname": "new-caledonia",
+    "shortcode": "nc"
+  },
+  "New Zealand": {
+    "cname": "new-zealand",
+    "shortcode": "nz"
+  },
+  "Nicaragua": {
+    "cname": "nicaragua",
+    "shortcode": "ni"
+  },
+  "Niger": {
+    "cname": "niger",
+    "shortcode": "ne"
+  },
+  "Nigeria": {
+    "cname": "nigeria",
+    "shortcode": "ng"
+  },
+  "Niue": {
+    "cname": "niue",
+    "shortcode": "nu"
+  },
+  "Norfolk Island": {
+    "cname": "norfolk-island",
+    "shortcode": "nf"
+  },
+  "North Korea": {
+    "cname": "north-korea",
+    "shortcode": "kp"
+  },
+  "Northern Mariana Islands": {
+    "cname": "northern-mariana-islands",
+    "shortcode": "mp"
+  },
+  "Norway": {
+    "cname": "norway",
+    "shortcode": "no"
+  },
+  "Oman": {
+    "cname": "oman",
+    "shortcode": "om"
+  },
+  "Pakistan": {
+    "cname": "pakistan",
+    "shortcode": "pk"
+  },
+  "Palau": {
+    "cname": "palau",
+    "shortcode": "pw"
+  },
+  "Palestine": {
+    "cname": "palestine",
+    "shortcode": "ps"
+  },
+  "Panama": {
+    "cname": "panama",
+    "shortcode": "pa"
+  },
+  "Papua New Guinea": {
+    "cname": "papua-new-guinea",
+    "shortcode": "pg"
+  },
+  "Paraguay": {
+    "cname": "paraguay",
+    "shortcode": "py"
+  },
+  "Peru": {
+    "cname": "peru",
+    "shortcode": "pe"
+  },
+  "Philippines": {
+    "cname": "philippines",
+    "shortcode": "ph"
+  },
+  "Pitcairn": {
+    "cname": "pitcairn",
+    "shortcode": "pn"
+  },
+  "Poland": {
+    "cname": "poland",
+    "shortcode": "pl"
+  },
+  "Portugal": {
+    "cname": "portugal",
+    "shortcode": "pt"
+  },
+  "Puerto Rico": {
+    "cname": "puerto-rico",
+    "shortcode": "pr"
+  },
+  "Qatar": {
+    "cname": "qatar",
+    "shortcode": "qa"
+  },
+  "Reunion": {
+    "cname": "reunion",
+    "shortcode": "re"
+  },
+  "Romania": {
+    "cname": "romania",
+    "shortcode": "ro"
+  },
+  "Russia": {
+    "cname": "russia",
+    "shortcode": "ru"
+  },
+  "Rwanda": {
+    "cname": "rwanda",
+    "shortcode": "rw"
+  },
+  "Saint Barth\u00c3\u00a9lemy": {
+    "cname": "saint-barthelemy",
+    "shortcode": "bl"
+  },
+  "Saint Helena": {
+    "cname": "saint-helena",
+    "shortcode": "sh"
+  },
+  "Saint Kitts And Nevis": {
+    "cname": "saint-kitts-and-nevis",
+    "shortcode": "kn"
+  },
+  "Saint Lucia": {
+    "cname": "saint-lucia",
+    "shortcode": "lc"
+  },
+  "Saint Martin": {
+    "cname": "saint-martin",
+    "shortcode": "mf"
+  },
+  "Saint Pierre And Miquelon": {
+    "cname": "saint-pierre-and-miquelon",
+    "shortcode": "pm"
+  },
+  "Saint Vincent And The Grenadines": {
+    "cname": "saint-vincent-and-the-grenadines",
+    "shortcode": "vc"
+  },
+  "Samoa": {
+    "cname": "samoa",
+    "shortcode": "ws"
+  },
+  "San Marino": {
+    "cname": "san-marino",
+    "shortcode": "sm"
+  },
+  "Sao Tome And Principe": {
+    "cname": "sao-tome-and-principe",
+    "shortcode": "st"
+  },
+  "Saudi Arabia": {
+    "cname": "saudi-arabia",
+    "shortcode": "sa"
+  },
+  "Senegal": {
+    "cname": "senegal",
+    "shortcode": "sn"
+  },
+  "Serbia": {
+    "cname": "serbia",
+    "shortcode": "rs"
+  },
+  "Seychelles": {
+    "cname": "seychelles",
+    "shortcode": "sc"
+  },
+  "Sierra Leone": {
+    "cname": "sierra-leone",
+    "shortcode": "sl"
+  },
+  "Singapore": {
+    "cname": "singapore",
+    "shortcode": "sg"
+  },
+  "Sint Maarten (Dutch part)": {
+    "cname": "sint-maarten-dutch-part",
+    "shortcode": "sx"
+  },
+  "Slovakia": {
+    "cname": "slovakia",
+    "shortcode": "sk"
+  },
+  "Slovenia": {
+    "cname": "slovenia",
+    "shortcode": "si"
+  },
+  "Solomon Islands": {
+    "cname": "solomon-islands",
+    "shortcode": "sb"
+  },
+  "Somalia": {
+    "cname": "somalia",
+    "shortcode": "so"
+  },
+  "South Africa": {
+    "cname": "south-africa",
+    "shortcode": "za"
+  },
+  "South Georgia And The South Sandwich Islands": {
+    "cname": "south-georgia-and-the-south-sandwich-islands",
+    "shortcode": "gs"
+  },
+  "South Korea": {
+    "cname": "south-korea",
+    "shortcode": "kr"
+  },
+  "South Sudan": {
+    "cname": "south-sudan",
+    "shortcode": "ss"
+  },
+  "Spain": {
+    "cname": "spain",
+    "shortcode": "es"
+  },
+  "Sri Lanka": {
+    "cname": "sri-lanka",
+    "shortcode": "lk"
+  },
+  "Sudan": {
+    "cname": "sudan",
+    "shortcode": "sd"
+  },
+  "Suriname": {
+    "cname": "suriname",
+    "shortcode": "sr"
+  },
+  "Svalbard And Jan Mayen": {
+    "cname": "svalbard-and-jan-mayen",
+    "shortcode": "sj"
+  },
+  "Swaziland": {
+    "cname": "swaziland",
+    "shortcode": "sz"
+  },
+  "Sweden": {
+    "cname": "sweden",
+    "shortcode": "se"
+  },
+  "Switzerland": {
+    "cname": "switzerland",
+    "shortcode": "ch"
+  },
+  "Syria": {
+    "cname": "syria",
+    "shortcode": "sy"
+  },
+  "TP": {
+    "cname": "east-timor",
+    "shortcode": "tp"
+  },
+  "Taipei & Taichung": {
+    "cname": "taipei-taichung",
+    "shortcode": "tw"
+  },
+  "Tajikistan": {
+    "cname": "tajikistan",
+    "shortcode": "tj"
+  },
+  "Tanzania": {
+    "cname": "tanzania",
+    "shortcode": "tz"
+  },
+  "Thailand": {
+    "cname": "thailand",
+    "shortcode": "th"
+  },
+  "The Democratic Republic Of Congo": {
+    "cname": "the-democratic-republic-of-congo",
+    "shortcode": "cd"
+  },
+  "Timor-Leste": {
+    "cname": "timor-leste",
+    "shortcode": "tl"
+  },
+  "Togo": {
+    "cname": "togo",
+    "shortcode": "tg"
+  },
+  "Tokelau": {
+    "cname": "tokelau",
+    "shortcode": "tk"
+  },
+  "Tonga": {
+    "cname": "tonga",
+    "shortcode": "to"
+  },
+  "Trinidad and Tobago": {
+    "cname": "trinidad-and-tobago",
+    "shortcode": "tt"
+  },
+  "Tunisia": {
+    "cname": "tunisia",
+    "shortcode": "tn"
+  },
+  "Turkey": {
+    "cname": "turkey",
+    "shortcode": "tr"
+  },
+  "Turkmenistan": {
+    "cname": "turkmenistan",
+    "shortcode": "tm"
+  },
+  "Turks And Caicos Islands": {
+    "cname": "turks-and-caicos-islands",
+    "shortcode": "tc"
+  },
+  "Tuvalu": {
+    "cname": "tuvalu",
+    "shortcode": "tv"
+  },
+  "U.S. Virgin Islands": {
+    "cname": "u-s-virgin-islands",
+    "shortcode": "vi"
+  },
+  "Uganda": {
+    "cname": "uganda",
+    "shortcode": "ug"
+  },
+  "Ukraine": {
+    "cname": "ukraine",
+    "shortcode": "ua"
+  },
+  "United Arab Emirates": {
+    "cname": "united-arab-emirates",
+    "shortcode": "ae"
+  },
+  "United Kingdom": {
+    "cname": "united-kingdom",
+    "shortcode": "gb"
+  },
+  "United States": {
+    "cname": "united-states",
+    "shortcode": "us"
+  },
+  "United States Minor Outlying Islands": {
+    "cname": "united-states-minor-outlying-islands",
+    "shortcode": "um"
+  },
+  "Uruguay": {
+    "cname": "uruguay",
+    "shortcode": "uy"
+  },
+  "Uzbekistan": {
+    "cname": "uzbekistan",
+    "shortcode": "uz"
+  },
+  "Vanuatu": {
+    "cname": "vanuatu",
+    "shortcode": "vu"
+  },
+  "Vatican": {
+    "cname": "vatican",
+    "shortcode": "va"
+  },
+  "Venezuela": {
+    "cname": "venezuela",
+    "shortcode": "ve"
+  },
+  "Vietnam": {
+    "cname": "vietnam",
+    "shortcode": "vn"
+  },
+  "Wallis And Futuna": {
+    "cname": "wallis-and-futuna",
+    "shortcode": "wf"
+  },
+  "Western Sahara": {
+    "cname": "western-sahara",
+    "shortcode": "eh"
+  },
+  "YU": {
+    "cname": "yugoslavia",
+    "shortcode": "yu"
+  },
+  "Yemen": {
+    "cname": "yemen",
+    "shortcode": "ye"
+  },
+  "Zambia": {
+    "cname": "zambia",
+    "shortcode": "zm"
+  },
+  "Zimbabwe": {
+    "cname": "zimbabwe",
+    "shortcode": "zw"
+  },
+  "Åland Islands": {
+    "cname": "aland-islands",
+    "shortcode": "ax"
+  }
+}
