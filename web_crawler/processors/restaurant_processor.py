@@ -11,4 +11,8 @@ class RestaurantProcessor:
 		return None
 
 	def get_restaurant_review(self):
-		return self.soup.find("div", class_="restaurant-details__description--text").find("p").string
+		try:
+			return self.soup.find("div", class_="restaurant-details__description--text").find("p").string
+		except Exception as e:
+			print("Failed to fetch review", e)
+			return None

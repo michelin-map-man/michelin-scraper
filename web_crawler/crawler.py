@@ -12,14 +12,14 @@ class MichelinCrawler:
 
 	def __init__(self, country: Country):
 		self.country = country
-		self.url = f"{MICHELIN_BASE_URL}/{country.shortcode}/en/selection/{country.cname}/restaurants/page"
+		self.url = f"{MICHELIN_BASE_URL}/en/{country.shortcode}/restaurants"
 		self.cache = Cache(country)
 		self.page_processors = []
 
 
 	def fetch_pages(self):
 		page_number = 1
-		url = f"{self.url}/1"
+		url = self.url
 		while True:
 			page_file_name = f"page_{page_number}.html"
 			page = self.cache.get_or_load(
